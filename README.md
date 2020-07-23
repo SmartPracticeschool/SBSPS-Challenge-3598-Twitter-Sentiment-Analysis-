@@ -1,11 +1,8 @@
 # SBSPS-Challenge-3598-Twitter-Sentiment-Analysis-
 
-**APPLICATION NEEDS TO BE RUN ON LOCAL SERVER**
-1. FOR CREATING PYTHON LOCAL SERVER ENVIRONMENT, WRITE FOLLOWING COMMAND ON THE ROOT DIRECTORY IN TERMINAL: python -m http.server 2100
-2. OR OPEN WITH "LIVE STREAMER" PLUGIN WITH VSCODE 
-
-**DASHBOARD UPDATES** >> The monthly trends from March 2020 to June 2020 were closely monitored and visualised on the dashboard. The trends for the month of july are under observation and will soon join in the trends.
-
+**DASHBOARD's LINK**
+**Click on the following link to access the Dashboard**
+https://covid-dashboard-sr.web.app/
 
 **INTRODUCTION**:
 
